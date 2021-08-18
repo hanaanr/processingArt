@@ -1,7 +1,7 @@
 ### More Circles but With Lines
 
 I wanted to build on the previous artwork (someCirclesMeet) I created using Processing, and advance from it. Below is a screenshot:
-![](may31.JPG)
+![](moreCirclesButWithLines.JPG)
 
 This a link to the video: https://youtu.be/J9DTlAZBUGs
 
